@@ -1,1 +1,2 @@
 file and contents
+This is the updated content
